@@ -1,0 +1,11 @@
+name: SkyblockMenu
+api: ["3", "4"]
+author: Nomi
+version: 1
+main: SkyblockMenu\Nomi\Main
+
+commands:
+  skyblockmenu:
+    description: skyblock menu commands
+    permission: skyblockmenu.open.menu  
+    default: true
